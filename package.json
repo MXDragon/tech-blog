@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:jakekelly44/tech-blog.git"
+        "url": "git@github.com:MXDragon/tech-blog.git"
     },
-    "author": "Jake Kelly",
+    "author": "Bryan Bentz",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/jakekelly44/tech-blog/issues"
+        "url": "https://github.com/MXDragon/tech-blog/issues"
     },
-    "homepage": "https://github.com/jakekelly44/tech-blog#readme",
+    "homepage": "https://github.com/MXDragon/tech-blog#readme",
     "dependencies": {
         "bcrypt": "^5.0.0",
         "connect-session-sequelize": "^6.1.1",
@@ -27,7 +27,7 @@
         "express-handlebars": "^4.0.4",
         "express-session": "^1.17.1",
         "mysql2": "^2.1.0",
-        "sequelize": "^5.21.12"
+        "sequelize": "^5.22.4"
     },
     "devDependencies": {
         "jest": "^26.4.2",
